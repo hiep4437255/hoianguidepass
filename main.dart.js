@@ -45678,7 +45678,7 @@ this.a.c.ag(t.Pu).f.mV(B.NR)},
 $S:20}
 A.aBm.prototype={
 $0(){var s=this.a,r=s.y
-s.y=r+(this.b.b.f-r)*0.5},
+s.y=r+(this.b.b.f-r)*0.1},
 $S:0}
 A.aBc.prototype={
 $0(){this.a.r=!0},
